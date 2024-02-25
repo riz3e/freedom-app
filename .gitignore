@@ -8,13 +8,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-<<<<<<< Updated upstream
-
-# macOS
-.DS_Store
-=======
 .env
 
 # macOS
 .DS_Store
->>>>>>> Stashed changes
